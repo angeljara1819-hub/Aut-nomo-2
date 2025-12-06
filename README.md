@@ -26,7 +26,7 @@ Si quieres mejorar este proyecto:
 Este proyecto está bajo la Licencia MIT. Ver archivo LICENSE para más detalles.
 
 👨‍💻 Autor
-Tu Nombre - Estudiante de Lógica en Programación
+Gabriel Jara - Estudiante de Lógica en Programación
 
 GitHub: @angeljaral819-hub
 
@@ -34,17 +34,6 @@ Proyecto: Aut-nomo-2
 
 
 
-
-5. **Haz scroll abajo** y haz clic en **"Commit new file"**
-
----
-
-## **Opción 2: Si prefieres crearlo localmente:**
-
-1. **Crea un archivo `README.md`** en tu carpeta `Aut-nomo-2`
-2. **Pega el código anterior** en ese archivo
-3. **Ejecuta estos comandos:**
-```bash
 git add README.md
 git commit -m "Añado README.md con documentación completa"
 git push origin main
